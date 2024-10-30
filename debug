@@ -1,0 +1,1 @@
+qemu-system-i386 -fda img/floppy.img -boot a -S -gdb tcp::9000
